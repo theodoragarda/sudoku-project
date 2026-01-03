@@ -1,4 +1,4 @@
-const GOOGLE_VISION_API_KEY = "AIzaSyAn3WE-_kQfzS77F4z-Nm08nrqmKAmU1Iw"; // (for class demo ok; don’t commit publicly)
+const GOOGLE_VISION_API_KEY = "Key";
 
 type Vertex = { x?: number; y?: number };
 type TextAnnotation = {
